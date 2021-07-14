@@ -1,0 +1,11 @@
+out/
+log/
+.snakemake/
+.DS_Store
+.RData
+.Rhistory
+*~
+*.swp
+*.aux
+_bookdown_files
+_main_cache
